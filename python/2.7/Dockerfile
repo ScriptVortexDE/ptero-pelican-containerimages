@@ -1,7 +1,7 @@
 FROM        python:2.7-slim
 
-LABEL       author="Software-noob" maintainer="admin@softwarenoob.com"
-LABEL       org.opencontainers.image.source="https://github.com/Software-Noob/pterodactyl-images"
+LABEL       author="Auroa Online" maintainer="hello@auroa.cloud"
+LABEL       org.opencontainers.image.source="https://github.com/medaria/ptero-pelican-containerimages"
 LABEL       org.opencontainers.image.licenses="MIT"
 
 RUN         apt-get update \
