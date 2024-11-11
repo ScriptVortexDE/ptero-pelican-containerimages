@@ -1,7 +1,7 @@
 FROM        azul/zulu-openjdk:8
 
-LABEL       author="Software-noob" maintainer="admin@softwarenoob.com"
-LABEL       org.opencontainers.image.source="https://github.com/Software-Noob/pterodactyl-images"
+LABEL       author="Auroa Online" maintainer="hello@auroa.cloud"
+LABEL       org.opencontainers.image.source="https://github.com/medaria/ptero-pelican-containerimages"
 LABEL       org.opencontainers.image.licenses="MIT"
 
 ENV         DEBIAN_FRONTEND noninteractive
