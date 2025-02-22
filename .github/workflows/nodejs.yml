@@ -62,4 +62,4 @@ jobs:
           platforms: linux/amd64, linux/arm64
           file: ./nodejs/${{ matrix.tag }}/Dockerfile
           push: true
-          tags: ghcr.io/medaria/ptero-pelican-containerimages:nodejs_${{ matrix.tag }}
+          tags: ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_${{ matrix.tag }}
