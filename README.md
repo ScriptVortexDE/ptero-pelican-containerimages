@@ -30,180 +30,180 @@ Navigate to `Admin Panel -> Nests -> Select your egg`. Add Docker image URL(s) f
 
 ### Java Amazon Corretto [AMD64/ARM64]
 
-- [Java 8 Amazon Corretto](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-corretto/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_corretto`
-- [Java 11 Amazon Corretto](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-corretto/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_corretto`
-- [Java 17 Amazon Corretto](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-corretto/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_corretto`
-- [Java 19 Amazon Corretto](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-corretto/19)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_19_corretto`
-- [Java 20 Amazon Corretto](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-corretto/20)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_20_corretto`
-- [Java 21 Amazon Corretto](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-corretto/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_corretto`
+- [Java 8 Amazon Corretto](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-corretto/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_corretto`
+- [Java 11 Amazon Corretto](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-corretto/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_corretto`
+- [Java 17 Amazon Corretto](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-corretto/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_corretto`
+- [Java 19 Amazon Corretto](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-corretto/19)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_19_corretto`
+- [Java 20 Amazon Corretto](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-corretto/20)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_20_corretto`
+- [Java 21 Amazon Corretto](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-corretto/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_corretto`
 
 ### Java Azul Zulu [AMD64/ARM64]
 
-- [Java 8 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_zulu`
-- [Java 11 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_zulu`
-- [Java 16 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/16)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_16_zulu`
-- [Java 17 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_zulu`
-- [Java 18 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/18)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_18_zulu`
-- [Java 19 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/19)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_19_zulu`
-- [Java 20 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/20)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_20_zulu`
-- [Java 21 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_zulu`
-- [Java 22 Zulu](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-zulu/22)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_22_zulu`
+- [Java 8 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_zulu`
+- [Java 11 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_zulu`
+- [Java 16 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/16)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_16_zulu`
+- [Java 17 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_zulu`
+- [Java 18 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/18)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_18_zulu`
+- [Java 19 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/19)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_19_zulu`
+- [Java 20 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/20)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_20_zulu`
+- [Java 21 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_zulu`
+- [Java 22 Zulu](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-zulu/22)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_22_zulu`
 
 ### Java Dragonwell [AMD64/ARM64]
 
-- [Java 8 Dragonwell](https://github.com/medaScriptVortexDEria/ptero-pelican-containerimages/tree/main/java-dragonwell/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_dragonwell`
-- [Java 11 Dragonwell](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-dragonwell/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_dragonwell`
-- [Java 17 Dragonwell](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-dragonwell/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_dragonwell`
-- [Java 21 Dragonwell](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-dragonwell/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_dragonwell`
+- [Java 8 Dragonwell](https://github.com/medascriptvortexderia/ptero-pelican-containerimages/tree/main/java-dragonwell/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_dragonwell`
+- [Java 11 Dragonwell](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-dragonwell/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_dragonwell`
+- [Java 17 Dragonwell](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-dragonwell/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_dragonwell`
+- [Java 21 Dragonwell](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-dragonwell/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_dragonwell`
 
 ### Java Eclipse Temurin [AMD64/ARM64]
 
-- [Java 8](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8`
-- [Java 11](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11`
-- [Java 16](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/16)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_16`
-- [Java 17](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17`
-- [Java 18](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/18)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_18`
-- [Java 19](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/19)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_19`
-- [Java 20](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/20)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_20`
-- [Java 21](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21`
-- [Java 22](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java/22)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_22`
+- [Java 8](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8`
+- [Java 11](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11`
+- [Java 16](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/16)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_16`
+- [Java 17](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17`
+- [Java 18](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/18)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_18`
+- [Java 19](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/19)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_19`
+- [Java 20](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/20)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_20`
+- [Java 21](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21`
+- [Java 22](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java/22)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_22`
 
 ### Java GraalVM [AMD64/ARM64]
 
 **NOTE**: Java 8 is AMD64 only due to lack of support from upstream
 
-- [Java 8 GraalVM-CE](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-graalvm/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_graalvm`
-- [Java 11 GraalVM JDK](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-graalvm/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_graalvm`
-- [Java 17 GraalVM JDK](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-graalvm/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_graalvm`
-- [Java 21 GraalVM JDK](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-graalvm/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_graalvm`
-- [Java 22 GraalVM JDK](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-graalvm/22)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_22_graalvm`
+- [Java 8 GraalVM-CE](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-graalvm/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_graalvm`
+- [Java 11 GraalVM JDK](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-graalvm/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_graalvm`
+- [Java 17 GraalVM JDK](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-graalvm/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_graalvm`
+- [Java 21 GraalVM JDK](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-graalvm/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_graalvm`
+- [Java 22 GraalVM JDK](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-graalvm/22)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_22_graalvm`
 
 ### Java Liberica [AMD64/ARM64]
 
-- [Java 8 Liberica](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-liberica/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_liberica`
-- [Java 11 Liberica](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-liberica/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_liberica`
-- [Java 17 Liberica](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-liberica/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_liberica`
-- [Java 21 Liberica](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-liberica/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_liberica`
-- [Java 22 Liberica](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-liberica/22)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_22_liberica`
+- [Java 8 Liberica](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-liberica/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_liberica`
+- [Java 11 Liberica](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-liberica/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_liberica`
+- [Java 17 Liberica](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-liberica/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_liberica`
+- [Java 21 Liberica](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-liberica/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_liberica`
+- [Java 22 Liberica](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-liberica/22)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_22_liberica`
 
 ### Java OpenJ9 [AMD64/ARM64]
 
-- [Java 8 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_openj9`
-- [Java 11 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_openj9`
-- [Java 16 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/16)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_16_openj9`
-- [Java 17 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_openj9`
-- [Java 18 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/18)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_18_openj9`
-- [Java 20 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/20)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_20_openj9`
-- [Java 21 OpenJ9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-openj9/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_openj9`
+- [Java 8 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_openj9`
+- [Java 11 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_openj9`
+- [Java 16 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/16)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_16_openj9`
+- [Java 17 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_openj9`
+- [Java 18 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/18)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_18_openj9`
+- [Java 20 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/20)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_20_openj9`
+- [Java 21 OpenJ9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-openj9/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_openj9`
 
 ### Java Shipilev Experimental [AMD64/ARM64]
 
 These are [shipilev experimental builds.](https://builds.shipilev.net/) If you're looking for Shenandoah GC, it is also by default shipped with at least Azul, Corretto and Temurin images starting with Java 11.
 
-- [Java 8 Shenandoah](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-shenandoah/8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_8_shenandoah`
-- [Java 11 Shenandoah](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-shenandoah/11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_11_shenandoah`
-- [Java 17 Shenandoah](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-shenandoah/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_17_shenandoah`
-- [Java 21 Shenandoah](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/java-shenandoah/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:java_21_shenandoah`
+- [Java 8 Shenandoah](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-shenandoah/8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_8_shenandoah`
+- [Java 11 Shenandoah](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-shenandoah/11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_11_shenandoah`
+- [Java 17 Shenandoah](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-shenandoah/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_17_shenandoah`
+- [Java 21 Shenandoah](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/java-shenandoah/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:java_21_shenandoah`
 
 ### Node.js [AMD64/ARM64]
 
-- [Nodejs 12](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/12)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_12`
-- [Nodejs 14](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/14)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_14`
-- [Nodejs 15](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/15)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_15`
-- [Nodejs 16](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/16)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_16`
-- [Nodejs 17](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/17)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_17`
-- [Nodejs 18](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/18)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_18`
-- [Nodejs 19](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/19)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_19`
-- [Nodejs 20](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/20)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_20`
-- [Nodejs 21](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/21)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_21`
-- [Nodejs 22](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/nodejs/22)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:nodejs_22`
+- [Nodejs 12](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/12)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_12`
+- [Nodejs 14](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/14)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_14`
+- [Nodejs 15](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/15)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_15`
+- [Nodejs 16](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/16)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_16`
+- [Nodejs 17](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/17)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_17`
+- [Nodejs 18](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/18)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_18`
+- [Nodejs 19](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/19)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_19`
+- [Nodejs 20](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/20)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_20`
+- [Nodejs 21](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/21)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_21`
+- [Nodejs 22](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/nodejs/22)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:nodejs_22`
 
 ### Python [AMD64/ARM64]
 
-- [Python 2.7](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/2.7)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_2.7`
-- [Python 3.6](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.6)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.6`
-- [Python 3.7](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.7)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.7`
-- [Python 3.8](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.8)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.8`
-- [Python 3.9](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.9)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.9`
-- [Python 3.10](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.10)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.10`
-- [Python 3.11](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.11)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.11`
-- [Python 3.12](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.12)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.12`
-- [Python 3.13-rc](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/python/3.13-rc)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:python_3.13-rc`
+- [Python 2.7](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/2.7)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_2.7`
+- [Python 3.6](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.6)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.6`
+- [Python 3.7](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.7)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.7`
+- [Python 3.8](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.8)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.8`
+- [Python 3.9](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.9)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.9`
+- [Python 3.10](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.10)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.10`
+- [Python 3.11](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.11)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.11`
+- [Python 3.12](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.12)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.12`
+- [Python 3.13-rc](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/python/3.13-rc)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:python_3.13-rc`
 
 ## Game specific
 
 ### Sourcemod [AMD64]
 
-- [Source with sourcemod](https://github.com/ScriptVortexDE/ptero-pelican-containerimages/tree/main/games/source-sourcemod)
-  - `ghcr.io/ScriptVortexDE/ptero-pelican-containerimages:games_source-sourcemod`
+- [Source with sourcemod](https://github.com/scriptvortexde/ptero-pelican-containerimages/tree/main/games/source-sourcemod)
+  - `ghcr.io/scriptvortexde/ptero-pelican-containerimages:games_source-sourcemod`
 
   Optionally installs and updates SourceMod/Metamod on each server startup. Requires adding egg environment variable `SOURCEMOD`.
 
